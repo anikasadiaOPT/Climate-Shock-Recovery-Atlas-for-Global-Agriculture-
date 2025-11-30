@@ -9,10 +9,11 @@ Sources
 
 Key processing (short)
 - Harmonize country IDs and years; convert units.
-- Aggregate ERA5 to countries (area‑weighted) and compute seasonal predictors (e.g., growing‑season mean temperature, cumulative precipitation).
+- Aggregate ERA5 to countries (area‑weighted) and compute seasonal predictors(e.g., growing‑season mean temperature, cumulative precipitation).
 - Run basic quality checks and minimal imputation; store cleaned tables for modelling.
 
 Important
 - Processed data, exact download queries, and preprocessing scripts are in /data and /scripts (provenance logged).
 - Always cite FAOSTAT and ECMWF/ERA5 and follow their licensing/attribution.
 ```
+
