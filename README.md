@@ -1,7 +1,7 @@
 # Climate-Agriculture Shock–Recovery Atlas: A 33-Year Spatio-Temporal Analysis of Global Agricultural Resilience Using ECMWF and FAOSTAT Data
 
 
-Short description
+Short description:\n
 This repository contains code and workflows used to build the Climate Shock–Recovery Atlas for global agriculture. The atlas links country-level crop production data (FAOSTAT) with gridded climate predictors (ECMWF ERA5 / ERA5‑Land), implements preprocessing and quality checks, and produces cleaned datasets and indicators used in modelling shock and recovery dynamics.
 
 Key features
@@ -103,3 +103,4 @@ Acknowledgements
 License
 - Code: MIT (see LICENSE)
 - Data: subject to provider licenses — see DATA_LICENSE.md for details.
+
