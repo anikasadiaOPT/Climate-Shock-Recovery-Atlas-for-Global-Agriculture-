@@ -29,9 +29,11 @@ Quick start
 1. Clone:
    git clone https://github.com/anikasadiaOPT/Climate-Shock-Recovery-Atlas-for-Global-Agriculture-.git
 2. Create a Python environment:
-   python -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
+  ```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 3. Data access:
    - FAOSTAT: download country-level crop tables (see Data sources & licensing below).
    - ERA5/ERA5‑Land: obtain via Copernicus Climate Data Store (CDS) API or ECMWF resources (see Data sources & licensing).
@@ -104,5 +106,6 @@ Acknowledgements
 License
 - Code: MIT (see LICENSE)
 - Data: subject to provider licenses — see DATA_LICENSE.md for details.
+
 
 
